@@ -1,0 +1,25 @@
+{
+  "name": "cfcmwin",
+  "version": "0.0.2",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cfcm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylws/es-win.git"
+  },
+  "keywords": [
+    "vue",
+    "win"
+  ],
+  "bugs": {
+    "url": "https://github.com/ylws/es-win/issues"
+  },
+  "homepage": "https://github.com/ylws/es-win#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
